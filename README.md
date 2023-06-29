@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmcgrue
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Data Science
 - 📫 How to reach me mmcgrue@yahoo.com
 
 <!---
